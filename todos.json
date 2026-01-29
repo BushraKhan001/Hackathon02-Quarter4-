@@ -1,0 +1,18 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Test service todo",
+      "completed": false,
+      "created_at": "2026-01-08T17:48:30.180391",
+      "updated_at": "2026-01-08T17:48:30.180396"
+    },
+    {
+      "id": 2,
+      "title": "Phase 1",
+      "completed": false,
+      "created_at": "2026-01-09T12:24:25.686992",
+      "updated_at": "2026-01-09T12:24:25.686994"
+    }
+  ]
+}
